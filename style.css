@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* .background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./background.png);
+    background-repeat: no-repeat;
+} */
+
+.dino{
+    width: 60px;
+    height: 60px;
+    background-image: url(./dino.png);
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+}
+
+.cactus{
+    width: 60px;
+    height: 60px;
+    background-image: url(./cactus.png);
+}
